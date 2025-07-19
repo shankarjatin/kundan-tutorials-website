@@ -173,7 +173,7 @@ int main() {
                 size="lg" 
                 variant="outline" 
                 className="border-primary/30 hover:border-primary transition-colors text-base sm:text-lg px-6 py-3"
-                onClick={() => window.location.href = 'mailto:saritaverma2222@gmail.com@gmail.com?subject=Free Demo Class Request&body=Hi, I would like to book a free demo class for computer science tutoring.'}
+                onClick={() => window.location.href = 'mailto:saritaverma2222@gmail.com?subject=Free Demo Class Request&body=Hi, I would like to book a free demo class for computer science tutoring.'}
               >
                 <Sparkles className="mr-2 h-4 w-4" />
                 Book Free Demo

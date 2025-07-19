@@ -67,7 +67,7 @@ export default function Navbar() {
           <div className="hidden md:flex items-center gap-4">
             <ThemeToggle />
             <Button size="sm" className="bg-primary hover:bg-primary/90 text-primary-foreground" asChild>
-              <a href="mailto:saritaverma2222@gmail.com@gmail.com">Contact Us</a>
+              <a href="mailto:saritaverma2222@gmail.com">Contact Us</a>
             </Button>
           </div>
 
@@ -99,7 +99,7 @@ export default function Navbar() {
             ))}
             <div className="pt-2">
               <Button size="sm" className="w-full bg-primary hover:bg-primary/90 text-primary-foreground" asChild>
-                <a href="mailto:saritaverma2222@gmail.com@gmail.com">Contact Us</a>
+                <a href="mailto:saritaverma2222@gmail.com">Contact Us</a>
               </Button>
             </div>
           </div>
