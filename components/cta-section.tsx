@@ -27,7 +27,7 @@ export default function CtaSection() {
             <Button 
               size="lg" 
               className="bg-white text-primary hover:bg-white/90 group"
-              onClick={() => window.location.href = 'mailto:saritaverma2222@gmail.com@gmail.com?subject=Free Trial Class Request&body=Hi, I would like to book a free trial class for computer science tutoring. Please let me know your availability.'}
+              onClick={() => window.location.href = 'mailto:saritaverma2222@gmail.com?subject=Free Trial Class Request&body=Hi, I would like to book a free trial class for computer science tutoring. Please let me know your availability.'}
             >
               Book Free Trial Class
               <ArrowRight className="ml-2 h-4 w-4 group-hover:translate-x-1 transition-transform" />

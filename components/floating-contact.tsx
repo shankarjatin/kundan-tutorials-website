@@ -37,13 +37,13 @@ export default function FloatingContact() {
               </a>
 
               <a
-                href="mailto:saritaverma2222@gmail.com@gmail.com?subject=Inquiry about Computer Science Tutoring&body=Hi, I would like to know more about your tutoring services."
+                href="mailto:saritaverma2222@gmail.com?subject=Inquiry about Computer Science Tutoring&body=Hi, I would like to know more about your tutoring services."
                 className="flex items-center gap-2 p-2 hover:bg-muted rounded-md transition-colors"
               >
                 <div className="bg-blue-500/10 text-blue-500 p-1.5 rounded-full shrink-0">
                   <Mail className="h-3 w-3" />
                 </div>
-                <span className="text-xs truncate">saritaverma2222@gmail.com@gmail.com</span>
+                <span className="text-xs truncate">saritaverma2222@gmail.com</span>
               </a>
             </div>
           </motion.div>

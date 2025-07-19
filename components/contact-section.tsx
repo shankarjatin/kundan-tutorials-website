@@ -18,8 +18,8 @@ export default function ContactSection() {
     {
       icon: <Mail className="h-6 w-6" />,
       title: "Email",
-      content: "saritaverma2222@gmail.com@gmail.com",
-      action: "mailto:saritaverma2222@gmail.com@gmail.com?subject=Inquiry about Computer Science Tutoring&body=Hi, I would like to know more about your tutoring services.",
+      content: "saritaverma2222@gmail.com",
+      action: "mailto:saritaverma2222@gmail.com?subject=Inquiry about Computer Science Tutoring&body=Hi, I would like to know more about your tutoring services.",
       color: "text-blue-500",
       bgColor: "bg-blue-500/10",
     },
